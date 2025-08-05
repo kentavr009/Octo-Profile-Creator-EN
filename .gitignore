@@ -1,0 +1,12 @@
+# Environment variables file (contains secret token)
+.env
+
+# Python generated files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# IDE configuration files
+.idea/
+.vscode/
